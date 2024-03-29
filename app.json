@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " Name Of Bot",
       "required" :true,    
-      "value": "𝗚𝗜𝗙𝗧𝗘𝗗 𝗠𝗗"
+      "value": "CRAZY GIFTED MD"
     }, 
     "USER_IMAGES": {
       "description": "Image for Bot. You can Place several Sparated by Commas.",
